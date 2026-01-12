@@ -25,7 +25,7 @@ Bu proje, Sakarya Üniversitesi ISE-201 Web Teknolojileri dersi kapsamında geli
 ## 📋 Kurulum ve Çalıştırma
 1. Bu depoyu (repository) bilgisayarınıza klonlayın.
 2. Herhangi bir modern web tarayıcısı ile `index.html` dosyasını açın.
-3. Veya  üzerinden canlı demoyu inceleyin.
+3. Veya https://efekan-227.github.io/-nteraktif-Medya-Kitapl-/ üzerinden canlı demoyu inceleyin.
 
 ## 👤 Hazırlayan
 - **Ad Soyad:** [EfeKan Ocak]
